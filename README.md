@@ -188,7 +188,3 @@ Direkt im chroot: `chroot /glftpd /bin/size_check.sh test.nfo /site/PFAD CRC`.
 
 - UTF-16-NFOs (enthalten NUL-Bytes) werden bewusst abgelehnt.
 - Die Magic-Byte-Liste und die Heuristiken sind konfigurierbar bzw. im Skript leicht erweiterbar.
-
-## Lizenz
-
-Lizenz nach Wahl hier eintragen (z. B. MIT).
